@@ -1,11 +1,11 @@
-genius-trending.py
+genius_trending.py
 ==================
 
-**genius-trending.py** is a Python API for downloading the top 10 trending songs from [Genius.com](https://www.genius.com).
+**genius_trending.py** is a Python API for downloading the top 10 trending songs from [Genius.com](https://www.genius.com).
 
 Installation
 ------------
-You can install **genius-trending.py** with pip by executing the following:
+You can install **genius_trending.py** with pip by executing the following (it's a `-` not a `_` when installing):
 ```
 pip install genius-trending.py 
 ```
